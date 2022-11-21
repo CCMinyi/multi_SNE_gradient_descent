@@ -25,13 +25,14 @@ Contains the code of "On the estimation of the weight parameters of the multi-SN
 ## Data
 - Simulated data : NDS
 - Handwritten Digits: https://archive.ics.uci.edu/ml/datasets/Multiple+Features
-- <embed src="[/blog/images/xxx.pdf](https://github.com/CCMinyi/multi_SNE_gradient_descent/blob/main/fig/Fig_NDS_hm.pdf)" type="application/pdf">
+- <embed src="https://github.com/CCMinyi/multi_SNE_gradient_descent/blob/main/fig/Fig_NDS_hm.pdf" type="application/pdf">
 
 
 
 ##
 * Packages we used:
 	* ggplot2
-  * ggpubr
-  * clValid
-  * pheatmap
+  	* ggpubr
+ 	* clValid
+  	* pheatmap
+	
