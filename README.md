@@ -25,6 +25,7 @@ Contains the code of "On the estimation of the weight parameters of the multi-SN
 ## Data
 - Simulated data : NDS
 - Handwritten Digits: https://archive.ics.uci.edu/ml/datasets/Multiple+Features
+* ![fig/Fig_NDS_hm.pdf](fig/Fig_NDS_hm.pdf)
 
 
 ##
