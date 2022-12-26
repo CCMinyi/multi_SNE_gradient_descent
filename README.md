@@ -3,7 +3,7 @@ Contains the code of "On the estimation of the weight parameters of the multi-SN
 
 
 ## Contribution
-* Designed an objective function for parameters estimation and prove the method converges at the rate of O(1/k)
+* Designed an objective function for parameters estimation converges at the rate of O(1/k)
 * Conducted experiments on synthetic and real datasets to show the effectiveness and robustness of multi-SNE gradient descent
 
 
