@@ -32,8 +32,7 @@ Contains the code of "On the estimation of the weight parameters of the multi-SN
 
 
 
-##
-* Packages we used:
+## Packages 
 	* ggplot2
   	* ggpubr
  	* clValid
