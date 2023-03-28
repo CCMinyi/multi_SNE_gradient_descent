@@ -1,6 +1,8 @@
 # multi-SNE gradient descent
 Contains the code of "On the estimation of the weight parameters of the multi-SNE using the gradient descent by Min-Yi Chen, Han-Ming Wu" 
 
+# R version
+4.2.1
 
 ## Contribution
 * Designed an objective function for parameters estimation converges at the rate of O(1/k)
